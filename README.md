@@ -3,6 +3,10 @@ This project was inspired by the video made by the youtuber “Code Bullet”, w
 
 Made by: Diogo Araújo - 60997
 
+Video Link: https://www.youtube.com/watch?v=r428O_CMcpI&list=WL&index=2&t=4s
+
+More info about this project can be found in the associated report found in the project files.
+
 ## Project Summary
 The referenced video details the youtuber’s experience with creating an Artificial Intelligence (AI) capable of traversing a racetrack by using a reinforcement algorithm, more specifically QLearning. During the video, the youtuber showcases the results obtained by the algorithm as well as the process which he took to create it. While highlighting its execution, it brought me to the question of if there were better alternatives to the algorithm that was being used. 
 
